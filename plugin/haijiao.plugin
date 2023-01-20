@@ -12,4 +12,4 @@ http-response ^https?:\/\/(www\.)?h.+?page=1&limit=20&user_id=\d+ script-path=ht
 
 [mitm]
 
-hostname = hjedd.com, www.haijiao.com, haijiao.com, www.hjedd.com,
+hostname = hjedd.com, www.haijiao.com, haijiao.com, www.hjedd.com,hjdf34.com, www.hjdf34.com
